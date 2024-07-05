@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strong_VPN.iml" filepath="$PROJECT_DIR$/.idea/modules/Strong_VPN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Strong_VPN.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.iml" filepath="$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core-networking/Strong_VPN.core-networking.unitTest.iml" />
+    </modules>
+  </component>
+</project>
